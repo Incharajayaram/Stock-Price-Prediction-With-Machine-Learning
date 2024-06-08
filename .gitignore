@@ -19,4 +19,28 @@ Thumbs.db
 
 # Ignore compiled files
 *.o
+
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python bytecode
+__pycache__/
 *.pyc
+
+# Ignore Django migrations
+*/migrations/*
+
+# Ignore database
+*.sqlite3
+
+# Ignore environment variables
+.env
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
