@@ -45,5 +45,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-lib/site-packages/
-scripts/
+Lib/
+Scripts/
